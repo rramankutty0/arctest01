@@ -1,2 +1,2 @@
 # arctest01
-Aor Azure-Arc testing
+For Azure-Arc testing
